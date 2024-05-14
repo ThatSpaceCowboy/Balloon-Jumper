@@ -13,24 +13,24 @@ Installation
 To run Balloon Jumper on your machine, follow these steps:
 
 Clone the repository to your local machine:
-'''bash
+```bash
 git clone https://github.com/your-username/balloon-jumper.git
-'''
+```
 
 Navigate to the cloned directory: 
-'''bash
+```bash
 cd balloon-jumper
-'''
+```
 
 Compile the source code using a compatible compiler (e.g., g++):
-'''bash
+```bash
 g++ main.cpp -o balloon_jumper -lGL -lGLU -lglut -lm
-'''
+```
 
 Run the executable:
-'''bash
+```bash
 ./balloon_jumper
-'''
+```
 
 Controls
 Spacebar: Jump from the balloon to initiate the character's descent.
