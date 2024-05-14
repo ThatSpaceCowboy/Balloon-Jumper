@@ -14,22 +14,22 @@ To run Balloon Jumper on your machine, follow these steps:
 
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/your-username/balloon-jumper.git
+git clone https://github.com/your-username/Balloon-Jumper.git
 ```
 
 Navigate to the cloned directory: 
 ```bash
-cd balloon-jumper
+cd Balloon-Jumper
 ```
 
 Compile the source code using a compatible compiler (e.g., g++):
 ```bash
-g++ main.cpp -o balloon_jumper -lGL -lGLU -lglut -lm
+g++ main.cpp -o Balloon_Jumper -lGL -lGLU -lglut -lm
 ```
 
 Run the executable:
 ```bash
-./balloon_jumper
+./Balloon_Jumper
 ```
 
 Controls
